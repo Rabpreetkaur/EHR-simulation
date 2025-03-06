@@ -1,0 +1,5 @@
+Patient ID,Name,Age,Gender,Diagnosis,Medication,Doctor,Notes
+1001,John Doe,45,Male,Hypertension,Lisinopril,Dr. Smith,Monitor BP regularly
+1002,Jane Smith,37,Female,diabetes,Metformin,Dr. Brown,Check glucose levels daily
+1003,Alicia Sharma,25,Female,Diabetes,Metformin,Dr. Brown,Check glucose levels daily.
+1004,Robert Lee,29,Male,Asthama,Albuterol,Dr. Clark,Use inhaler as needed.
